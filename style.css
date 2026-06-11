@@ -486,6 +486,12 @@ color: #360C72;
     line-height: 1.4;
 }
 
+.footer__link:hover{
+    color: #652BDF;
+    text-decoration: underline;
+}
+
+
 
 @media (max-width: 768px){
 
